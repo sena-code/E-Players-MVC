@@ -1,0 +1,38 @@
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.exe
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.deps.json
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.runtimeconfig.json
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.dll
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.pdb
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.Views.dll
+C:\Users\Vinicius\Desktop\E-Players MVC\bin\Debug\netcoreapp3.1\E-Players MVC.Views.pdb
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.RazorAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.RazorAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.TagHelpers.input.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.TagHelpers.output.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.RazorCoreGenerate.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.Views.pdb
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Players MVC.StaticWebAssets.Manifest.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Players MVC.StaticWebAssets.xml
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.dll
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.pdb
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.csproj.CopyComplete
