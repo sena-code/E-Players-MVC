@@ -4,7 +4,7 @@
 }
 
 
-<form action="@Url.Action("Cadastrar")" method="post">
+<form action="@Url.Action("Cadastrar")" method="post" enctype="multipart/form-data">
 
     <label for="IdEquipe">IdEquipe</label>
     <input type="text" name="IdEquipe" id="IdEquipe">
@@ -12,8 +12,8 @@
     <label for="Nome">Nome</label>
     <input type="text" name="Nome" id="Nome">
 
-        <label for="Imagem">Imagem</label>
-    <input type="text" name="Imagem" id="Imagem">
+    <label for="Imagem">Imagem</label>
+    <input type="file" name="Imagem" id="Imagem">
 
     <button type="submit">Cadastrar</button>
 
@@ -24,14 +24,20 @@
         <th>Id</th>
         <th>Nome</th>
         <th>Imagem</th>
+        <th>Ações</th>
     </thead>
     <tbody>
         @foreach (Equipe e in ViewBag.Equipes)
         {
             <tr>
-                 <td>@e.IdEquipe</td>
+                <td>@e.IdEquipe</td>
                 <td>@e.Nome</td>
-                <td>@e.Imagem</td>
+                <td>
+                    <img src="img/Equipes/@e.Imagem" alt="Imagem da Equipe @e.Nome">
+                </td>
+                <td>
+                      <a class="nav-link text-dark" asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@e.IdEquipe">Excluir</a>
+                </td>
             </tr>
         }
     </tbody>
