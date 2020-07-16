@@ -1,0 +1,62 @@
+@model Noticias
+@{
+    ViewData["Title"] = "Notícias";
+}
+
+<div class="titulo_pagina">
+            <h1>@ViewData["Title"]</h1>
+        </div>
+
+<form class="cadastro" action="@Url.Action("Cadastrar")" method="post" enctype="multipart/form-data">
+
+    <div class="campo">
+
+    <label for="IdNoticia">IdNoticia</label>
+    <input type="text" name="IdNoticia" id="IdNoticia">
+    </div>
+    <div class="campo">
+
+    <label for="Titulo">Título</label>
+    <input type="text" name="Titulo" id="Titulo">
+    </div>
+    <div class="campo">
+
+    <label for="Texto">Texto</label>
+    <input type="text" name="Texto" id="Texto">
+    </div>
+    <div class="campo">
+
+    <label for="Imagem">Imagem</label>
+    <input type="file" name="Imagem" id="Imagem">
+    </div>
+
+    <button class="gradient btn" type="submit">Cadastrar Noticia</button>
+
+</form>
+
+<table class="table table-responsive table-striped">
+    <thead>
+        <th>Id Noticia</th>
+        <th>Título</th>
+        <th>Texto</th>
+        <th>Imagem</th>
+        <th>Ações</th>
+    </thead>
+    <tbody>
+        @foreach (Noticias a in ViewBag.Noticias)
+        {
+            <tr>
+                <td>@a.IdNoticia</td>
+                <td>@a.Titulo</td>
+                <td>@a.Texto</td>
+                <td>
+                    <img src="img/Noticias/@a.Imagem" alt="Imagem da Noticia @a.Titulo">
+                </td>
+                <td>
+                      <a class="nav-link text-dark" asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@a.IdNoticia"><i class="fa fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

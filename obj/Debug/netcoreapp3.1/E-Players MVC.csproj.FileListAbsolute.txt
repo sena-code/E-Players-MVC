@@ -21,7 +21,6 @@ C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.Ta
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.RazorCoreGenerate.cache
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -36,3 +35,4 @@ C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.dl
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.pdb
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.genruntimeconfig.cache
 C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\E-Players MVC.csproj.CopyComplete
+C:\Users\Vinicius\Desktop\E-Players MVC\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs

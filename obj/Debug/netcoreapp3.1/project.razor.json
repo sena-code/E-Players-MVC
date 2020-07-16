@@ -20521,11 +20521,6 @@
   "RootNamespace": "E_Players_MVC",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Vinicius\\Desktop\\E-Players MVC\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Vinicius\\Desktop\\E-Players MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -20558,6 +20553,11 @@
     {
       "FilePath": "c:\\Users\\Vinicius\\Desktop\\E-Players MVC\\Views\\Equipe\\index.cshtml",
       "TargetPath": "Views\\Equipe\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Vinicius\\Desktop\\E-Players MVC\\Views\\Noticias\\Index.cshtml",
+      "TargetPath": "Views\\Noticias\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
